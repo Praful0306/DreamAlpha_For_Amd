@@ -1,6 +1,6 @@
-# Sahayak AI — Voice-First Rural Health Intelligence Platform
+# Sahayak AI — Voice-ai Rural Health Intelligence Platform
 
-> **Asteria 2026 · Team DreamAlpha**  
+> **idea2impact 2026 · Team DreamAlpha**  
 > Empowering ASHA workers with AI-powered diagnostics, running entirely on AMD Ryzen AI NPU — no cloud required.
 
 ---
@@ -35,7 +35,7 @@ India has **1 billion+ rural citizens** and only **1 doctor per 10,000 people** 
 
 ## Solution Overview
 
-Sahayak AI is a **voice-first, offline-capable medical assistant** built for ASHA workers. It runs on the **AMD Ryzen AI NPU** (Neural Processing Unit), enabling real-time AI inference at 4.2W — without any internet connection.
+Sahayak AI is a **voice-ai, full-capable medical assistant** built for ASHA workers. It runs on the **AMD Ryzen AI NPU** (Neural Processing Unit), enabling real-time AI inference at 4.2W — without any internet connection.
 
 Workers speak in **Kannada, Hindi, or English**. The system transcribes, analyzes against 12 ICMR clinical protocols, and delivers structured diagnoses with action items — all in under 200ms.
 
