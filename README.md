@@ -685,7 +685,7 @@ See `Sahayak_AI_MakeCom_VAPI_Setup_Guide.pdf` for step-by-step configuration.
 
 ## Team
 
-**Team DreamAlpha** — Asteria 2026
+**Team DreamAlpha** — idea2impact 2026
 
 | Role | Contributor |
 |------|-------------|
@@ -698,7 +698,7 @@ See `Sahayak_AI_MakeCom_VAPI_Setup_Guide.pdf` for step-by-step configuration.
 
 ## License
 
-This project is submitted for the Asteria 2026 under educational/research use.
+This project is submitted for the idea2impact 2026 under educational/research use.
 
 Clinical guidance is based on ICMR (Indian Council of Medical Research) publicly available guidelines. This software is **not a substitute for professional medical advice**.
 
